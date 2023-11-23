@@ -1,27 +1,27 @@
 ![Maven Central](https://img.shields.io/maven-central/v/io.inappchat/sdk) ![GitHub issues](https://img.shields.io/github/issues/inappchat/android-example)
 
-![IAC Android](https://github.com/ShadowArcanist/IACAndroid/assets/106978117/c52d5c77-b368-49a0-847c-c18f812fd130)
+![BotStacks Android](https://github.com/BotStacks/android-sdk/assets/106978117/3e59f00e-2bf2-4212-9f42-7275b0a0d05f)
 
-# In-AppChat Android SDK
+# BotStacks Android SDK
 
 > Delightful chat for your Android apps
 
-Try the demo, download [InAppChat Android](https://play.google.com/store/apps/details?id=io.inappchat.sample)
+Try the demo, download [BotStacks Android](https://play.google.com/store/apps/details?id=io.inappchat.sample)
 
 &nbsp;
 
 # 📃 Table of Contents
 
-- [Overview](https://github.com/ShadowArcanist/IACAndroid/blob/main/README.md#-overview)
-- [Installation](https://github.com/ShadowArcanist/IACAndroid/blob/main/README.md#-installation)
-- [Getting Started](https://github.com/ShadowArcanist/IACAndroid/blob/main/README.md#-getting-started)
-- [Theming](https://github.com/ShadowArcanist/IACAndroid/blob/main/README.md#-theming)
+- [Overview](https://github.com/BotStacks/android-sdk#-overview)
+- [Installation](https://github.com/BotStacks/android-sdk#-installation)
+- [Getting Started](https://github.com/BotStacks/android-sdk#-getting-started)
+- [Theming](https://github.com/BotStacks/android-sdk#-theming)
 
 &nbsp;
 
 # ✨ Overview
 
-This SDK integrates a fully serviced chat experience on the [InAppChat](https://inappchat.io) platform.
+This SDK integrates a fully serviced chat experience on the [BotStacks](https://botstacks.ai) platform.
 
 &nbsp;
 
@@ -65,7 +65,7 @@ Feel free to clone it and view the source.
 
 ### Step 1: Initialize the SDK
 
-In your Application class, call InAppChat.setup with your API key. Create an account at [InAppChat.io](https://inappchat.io) to get your own API key.
+In your Application class, call InAppChat.setup with your API key. Create an account at [BotStacks.ai](https://Botstacks.ai) to get your own API key.
 
 If you don't have an Application class, [create one](https://guides.codepath.com/android/Understanding-the-Android-Application-Class).
 
@@ -212,4 +212,4 @@ If you don't understand something in the documentation, you are experiencing pro
 
 ---
 
-**All Content Copyright © 2023 Rip Bull Networks**
+**All Content Copyright © 2023 BotStacks**
